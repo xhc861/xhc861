@@ -1,49 +1,46 @@
-### Hi there 👋Ciallo～(∠・ω< )⌒★
+### Hi there 
 
 # I am xhc861
 
-> 来自中国贵阳的 15 岁开发者  
-> 热爱编程、设计与创造，一直在路上 🚀  
+> Passionate about programming, design, and creation, always on the journey 🚀  
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 来自贵州贵阳 | From Guiyang,China
-- 15 岁，初中在读 & 多能力开发者-主要经历是网站**全栈开发和运维**
-- 2021 年与小学同学一起创建了 **[SiiWay团队](https://github.com/SiiWay)**  
-- 喜欢探索新技术、写项目、搭网站、干硬件(吧)
-- 但由于本人前期发生的一些事，**基本没在**Github活动，之前的库**也被删了**😭
-- 所以近期，正在把之前开发的项目**全部重新重新上传**到Github(详见下文“And”部分)
-- 音乐、写作、体育也都是我的爱好
-- 我正在研制一款对抗AI违规产业的软件，为维护互联网安全行动
+- 15 years old, student & multi-skilled developer — primarily experienced in web **full-stack development and DevOps/operations**
+- Co-founded the **[SiiWay Team](https://github.com/SiiWay)** with my primary school classmates 
+- Love exploring new technologies, building projects, setting up websites, and dabbling in hardware (kind of)
+- Due to some personal setbacks in the past, I was **mostly inactive** on GitHub, and my previous repositories **were deleted** 😭
+- So recently, I have been **re-uploading all** of my previously developed projects to GitHub (see the "And" section below for details)
+- Music, writing, and sports are also my hobbies
+- I am currently developing software to combat illicit AI industries, taking action to safeguard internet security
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,ts,js,html,nodejs,vue,cpp,cloudflare,fastapi,vscode,linux,arduino" />
+  <img src="https://skillicons.dev/icons?i=php,python,ts,html,cloudflare,fastapi,linux,arduino" />
 </p>
 
 ---
 
 ## 💬 Programming languages and familiarity
 
-| 语言 | 熟悉程度 |
+| Language | Proficiency |
 |------|-----------|
-|  PHP（专攻） | ███████████████░ 90% |
-|  Python（近期学习） | █████████████░░░ 70% |
+|  PHP (Specialized) | ███████████████░ 90% |
+|  Python (Recently learning) | █████████████░░░ 70% |
 |  TypeScript / HTML | ██████████████░░ 80% |
-|  C++（不常用） | ███████████░░░░░ 60% |
-|  Bash / 其他 | 此能力~~慢慢评 |
+|  C++ (Rarely used) | ███████████░░░░░ 60% |
+|  Bash / Others | To be evaluated...~~ |
 
 ---
 
 ## 🌐 Websites
 
 -  **Blog**: [https://xhc861.top](https://xhc861.top)  
--  **SiiWay 团队主页**: [https://github.com/SiiWay](https://github.com/SiiWay)  
+-  **SiiWay Team Homepage**: [https://github.com/SiiWay](https://github.com/SiiWay)  
 
 ---
-#### 感谢所有与我同行和为我付出的人！<br>Thank you to everyone who has been with me and supported me!
-
+#### Thank you to everyone who has walked alongside me and supported me!
